@@ -1,5 +1,5 @@
 hello!
 good bye
-edit user1
+user2
 no good (master)
 
