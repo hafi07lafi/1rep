@@ -3,3 +3,4 @@ good bye
 user2
 no good (master)
 new feature1
+rebase user1
